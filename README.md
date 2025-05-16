@@ -15,13 +15,10 @@ A simple console-based banking system written in Java. This project simulates ba
 - Java Collections (`ArrayList`)
 - Console-based UI
 
-## 📁 Project Structure
-
-
 # 🧑‍💻 Author
 
 **Kalaga Chinni Bhuvaneswari**  
-📧 bhuvanakalaga@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/bhuvana-kalaga-b8805828b/)  
-🐙 [GitHub Profile](https://github.com/Bhuvanakalaga)
+ bhuvanakalaga@gmail.com  
+ [LinkedIn Profile](https://www.linkedin.com/in/bhuvana-kalaga-b8805828b/)  
+ [GitHub Profile](https://github.com/Bhuvanakalaga)
 
